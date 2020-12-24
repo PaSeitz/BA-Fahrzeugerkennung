@@ -1,3 +1,3 @@
 # BA-Fahrzeugerkennung
 
-Umsetzung einer Produkterkennung (Fahrzeugerkennung) in Pyhton.
+Umsetzung einer Produkterkennung (Fahrzeugerkennung) in Python.
